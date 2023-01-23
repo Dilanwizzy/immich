@@ -10,7 +10,7 @@ However, the intereseting thing though, permanantly deleting an asset and moving
 
 ### Permanantly deleting an asset
 
-When an assets gets permenantly deleted on the web, Google Photos will notify you to review the changes. It will ask if you want to delete the asset from your device and you can either deny or accept. Accepting will also remove the asset from the device and denying won't delete it but also does not get rid of the notification. Also, that asset won't be reuploaded next time backup runs. So, basically denying won't no longer back up that asset and it seems like the only way is to back it up on the web.
+When an assets gets permenantly deleted on the web, Google Photos will notify you to review the changes. It will ask if you want to delete the asset from your device and you can either deny or accept. Accepting will also remove the asset from the device and denying won't delete it but also does not get rid of the notification. Also, that asset won't be reuploaded next time backup runs. So, basically denying won't no longer back up that asset and it seems like the only way is to back it up is on the web.
 
 Denying won't do anything here
 ![Alt text](images/Screenshot_20230122_203645_Media.jpg)
